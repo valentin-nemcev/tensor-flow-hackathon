@@ -1,6 +1,8 @@
 # tensor-flow-hackathon
 TensorFlow helps tensors flow
 
+*[Официальный телеграм канал](https://t.me/joinchat/AAAAAD7agGGGZGn3T243fA)*
+
 ## План
 * 12:00 - встречаемся, общаемся
 * первая половина дня - изучаем tf, проходим туториал
